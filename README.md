@@ -1,42 +1,38 @@
-# Task 3 – Basic SELECT Queries
-
-This repository contains a collection of `SELECT` queries written for Task 3 of the SQL Developer Internship Program. The queries are based on the Library Management System schema created in earlier tasks.
+# Task 3 – SELECT Queries 
+This repository contains SQL queries written for Task 3 of the SQL Developer Internship Program. The queries focus only on basic data retrieval and filtering operations as specified in the task.
 
 ---
 
 ## Objective
 
-To practice and demonstrate the use of SQL `SELECT` queries along with common filtering, sorting, and projection techniques.
+To extract data from one or more tables using essential SQL commands like `SELECT`, `WHERE`, `ORDER BY`, `LIKE`, and `LIMIT`.
 
 ---
 
-##Concepts Covered
+## Key Concepts Demonstrated
 
 - `SELECT *` and specific column selection
-- Filtering with `WHERE`, `AND`, `OR`
-- Pattern matching with `LIKE`
+- Filtering using `WHERE`, `AND`, `OR`
+- Pattern matching using `LIKE`
 - Range filtering using `BETWEEN`
-- Sorting with `ORDER BY`
-- Limiting results using `LIMIT`
-- Aliasing columns using `AS`
-- Getting unique values with `DISTINCT`
-- Using `IN` for multiple condition matches
+- Sorting using `ORDER BY`
+- Limiting result rows using `LIMIT`
 
 ---
 
 ## Tools Used
 
-- MySQL Workbench / DB Browser for SQLite / DB Fiddle
+- MySQL / DB Browser for SQLite / DB Fiddle
 
 ---
 
-## Files
+## Files Included
 
-- `task3.sql` – Main SQL script with all 15 queries
-- `README.md` – Documentation of the task
+- `task3.sql` – SQL file with  the required queries
+- `README.md` – Description of the task and concepts
 
 ---
 
 ## Submission
 
-This task was completed as part of the **SQL Developer Internship Program – Task 3: Writing Basic SELECT Queries**.
+This task is submitted as part of the SQL Developer Internship Program – Task 3: Writing Basic SELECT Queries.
